@@ -1,2 +1,2 @@
-# starlightheritage.io
-website for starlight
+# starlightheritage.github.io
+To make a website for starlight
